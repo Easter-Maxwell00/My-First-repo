@@ -8,3 +8,8 @@ Some more random texts
 ## Subheader
 
 Project clone 
+
+## Local Development
+
+1.Open index.html in your browser
+2.Use Visual studio to install
